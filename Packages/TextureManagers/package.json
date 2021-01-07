@@ -1,0 +1,16 @@
+{
+  "name": "xjine.texturemanagers",
+  "displayName": "Texture Managers",
+  "version": "1.0.0",
+  "author": {
+    "name": "XJINE"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "description": "TextureManagers manage some TextureManager with each 4 meta data.",
+  "dependencies": {
+    "xjine.iinitializable": "https://github.com/XJINE/Unity_IInitializable.git?path=/Packages/IInitializable",
+    "xjine.texturemanager": "https://github.com/XJINE/Unity_TextureManager.git?path=/Packages/TextureManager",
+    "xjine.texturepickerprobability": "https://github.com/XJINE/Unity_TexturePickerProbability.git?path=/Packages/TexturePickerProbability"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "TextureManagers",
+    "references": [
+        "GUID:364e6d762b4d6c947a6c8417b09f95c6",
+        "GUID:1027f1b35f3b81040a76c648bafd5898",
+        "GUID:a46973dc7c7b4464385915708fe5e595"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
