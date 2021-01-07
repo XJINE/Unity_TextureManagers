@@ -1,6 +1,6 @@
 # Unity_TextureManagers
 
-``TextureManagers`` manage some ``TextureManager`` with each 4 meta data."
+``TextureManagers`` manage some ``TextureManager`` with each 4 meta data.
 
 ## Import to Your Project
 
